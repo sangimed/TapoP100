@@ -8,7 +8,7 @@ with open('HISTORY.md') as history_file:
 
 setup_args = dict(
     name='PyP100',
-    version='0.0.19',
+    version='0.0.20',
     description='A module for controlling the Tp-link Tapo P100/P105/P110 plugs and L530/L510E bulbs.',
     long_description_content_type="text/markdown",
     long_description=README,
@@ -17,7 +17,7 @@ setup_args = dict(
     author='Toby Johnson',
     author_email='toby.e.m.Johnson@gmail.com',
     keywords=['Tapo', 'Tp-Link', 'P100'],
-    url='https://github.com/fishbigger/TapoP100',
+    url='https://github.com/sangimed/TapoP100',
     download_url='https://pypi.org/project/PyP100/'
 )
 
